@@ -1,0 +1,52 @@
+     body{
+    padding: 10%;
+    background-image: url("images/bgl.jpg");
+    background-size: contain;
+
+}
+
+
+td{
+    border:2px solid white ;
+    height:100px;
+    width:200px;
+
+    
+}
+.tableNew{
+    
+}
+.up{
+    height:80px;
+    
+    
+    
+}
+.down{
+    height:20px;
+    text-align:center;
+    
+}
+.xcells{
+    
+    width:50px;
+    height:80px;
+   
+    float:left;
+    text-align:center;
+
+    
+    
+}
+.ocells{
+    
+    width:50px;
+    height:80px;
+ 
+    float:left;
+    text-align:center;
+}
+}
+#buttons{
+    text-align:center;
+}
